@@ -19,8 +19,8 @@ To write a Java program demonstrating runtime polymorphism using method overridi
 
 ## PROGRAM:
 
-## Developed by: B.VIMALRAJ
-## RegisterNumber: 212224230304
+## Developed by: VINOTHKUMAR R
+## RegisterNumber: 212224040361
 
 
 ## SOURCE CODE:
