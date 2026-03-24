@@ -32,9 +32,8 @@ To write a Java program that initializes object variables using a constructor an
 
 ## PROGRAM:
 
-## Developed by: B.VIMALRAJ
-## RegisterNumber : 212224230304
-
+## Developed by: VINOTHKUMAR R
+## RegisterNumber: 212224040361
 
 ## SOURCE CODE:
 
