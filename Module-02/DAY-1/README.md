@@ -27,9 +27,9 @@ To define a class Car with attributes brand, color, and year; create two objects
 
 
 ## PROGRAM:
+## Developed by: VINOTHKUMAR R
+## RegisterNumber: 212224040361
 
-## Developed by: B.VIMALRAJ
-## RegisterNumber: 212224230304
 
 
 ## SOURCE CODE:
