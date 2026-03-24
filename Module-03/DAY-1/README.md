@@ -19,9 +19,8 @@ To write a Java program demonstrating Inheritance and Aggregation by creating su
 
 ## PROGRAM:
 
-## Developed by: B.VIMALRAJ
-## RegisterNumber: 212224230304
-
+## Developed by: VINOTHKUMAR R
+## RegisterNumber: 212224040361
 
 ## SOURCE CODE:
 ```
