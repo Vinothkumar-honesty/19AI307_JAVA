@@ -22,9 +22,8 @@ Each judge uses different criteria to score fighters. Based on points, the judge
 
 ## PROGRAM:
 
-## Developed by: B.VIMALRAJ
-## RegisterNumber: 212224230304
-
+## Developed by: VINOTHKUMAR R
+## RegisterNumber: 212224040361
 
 ## SOURCE CODE:
 ```
